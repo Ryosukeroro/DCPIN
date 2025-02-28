@@ -17,6 +17,7 @@ int Speed_count;
 int rpm;
 const float alpha=45;
 const float pi=3.14159;
+
 ros::NodeHandle nh;//登録
 
 void Set_MOTOR(float value){
