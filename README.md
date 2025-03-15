@@ -3,7 +3,7 @@ DCPINは、岩根亮介の技術をすべて詰め込んだ究極の岩根亮介
 移動機構として四輪オムニホイール機構(自作)を採用しています。
 
 # 機体図
-<img src="https://github.com/user-attachments/assets/d64a460b-2bc1-42fc-97da-57b8c8728361" width="50">
+<img src="https://github.com/user-attachments/assets/d64a460b-2bc1-42fc-97da-57b8c8728361" width="500">
 
 
 # 機体詳細
