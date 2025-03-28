@@ -11,6 +11,7 @@ DCPINは、岩根亮介の技術をすべて詰め込んだ究極の岩根亮介
 DCモーターを採用しています。今はなきこちら→https://x.com/suzakulabshop/status/1243741995413254146
 
 # 岩根亮介専用機体_DCPIN_制御
+rosserialを使ってROSとArduinoを通信しています。
 Arduino_Unoで各ホイールの速度制御を行っています。速度制御は目標速度に対して、FF+FB制御(PID制御)を行っております。
 速度情報取得のため、エンコーダーを使用しています。エンコーダーはこちら→https://www.digikey.jp/ja/products/detail/same-sky-formerly-cui-devices/AMT102-V/827015
 エンコーダーの分解能は256にしていました。
