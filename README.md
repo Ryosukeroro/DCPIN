@@ -17,4 +17,4 @@ Arduino_Unoで各ホイールの速度制御を行っています。速度制御
 エンコーダーの分解能は256にしていました。
 
 # rosserialの使い方
-rosserialの使い方はこちら→
+rosserialの使い方はこちら→https://qiita.com/ryosukeroro/items/99f0151eece430890b44
